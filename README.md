@@ -32,8 +32,6 @@ Openbox Desktop with polybar, rofi, termite, urxvt, etc.
 
 ![blues](https://raw.githubusercontent.com/adi1090x/dots/master/images/blues.png) <br />
 
-![blues_alt](https://raw.githubusercontent.com/adi1090x/dots/master/images/blues_alt.png) <br />
-
 ## 2. Leafs
 
 Another Openbox Desktop with polybar, rofi, termite, urxvt, etc.
@@ -50,8 +48,6 @@ Another Openbox Desktop with polybar, rofi, termite, urxvt, etc.
 ![leafs](https://raw.githubusercontent.com/adi1090x/dots/master/images/leafs.png) <br />
 
 ![leafs_alt](https://raw.githubusercontent.com/adi1090x/dots/master/images/leafs_alt.png) <br />
-
-![leafs_alt_1](https://raw.githubusercontent.com/adi1090x/dots/master/images/leafs_alt_1.png) <br />
 
 ## 3. BBox
 
@@ -72,8 +68,6 @@ Blackbox WM, Polybar, rofi, urxvt, etc.
 
 ![bbox_2](https://raw.githubusercontent.com/adi1090x/dots/master/images/bbox_2.png) <br />
 
-![bbox_3](https://raw.githubusercontent.com/adi1090x/dots/master/images/bbox_3.png) <br />
-
 ## 4. Wall
 
 Openbox WM, Polybar, rofi, urxvt, etc.
@@ -91,11 +85,3 @@ Openbox WM, Polybar, rofi, urxvt, etc.
 ![wall_1](https://raw.githubusercontent.com/adi1090x/dots/master/images/wall_1.png) <br />
 
 ![wall_2](https://raw.githubusercontent.com/adi1090x/dots/master/images/wall_2.png) <br />
-
-![wall_3](https://raw.githubusercontent.com/adi1090x/dots/master/images/wall_3.png) <br />
-
-![wall_4](https://raw.githubusercontent.com/adi1090x/dots/master/images/wall_4.png) <br />
-
-![wall_5](https://raw.githubusercontent.com/adi1090x/dots/master/images/wall_5.png) <br />
-
-![wall_6](https://raw.githubusercontent.com/adi1090x/dots/master/images/wall_6.png) <br />
