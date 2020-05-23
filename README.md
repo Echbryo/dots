@@ -85,3 +85,20 @@ Openbox WM, Polybar, rofi, urxvt, etc.
 ![wall_1](https://raw.githubusercontent.com/adi1090x/dots/master/images/wall_1.png) <br />
 
 ![wall_2](https://raw.githubusercontent.com/adi1090x/dots/master/images/wall_2.png) <br />
+
+## 5. Bspnord
+
+bspwm WM, Polybar, rofi, termite, etc.
+
+
+**Appearance Overview**
+
+- Gtk Theme : [Arc](https://github.com/horst3180/arc-theme) <br />
+- Icon Pack : [Arc](https://github.com/horst3180/arc-icon-theme) <br />
+- Bars : [Polybar](https://github.com/jaagr/polybar) <br />
+- Fonts : [Terminus](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/Terminus/terminus-ttf-4.40.1)<br />
+
+### Screenshots
+![wall_1](https://raw.githubusercontent.com/adi1090x/dots/master/images/bspnord_1.png) <br />
+
+![wall_2](https://raw.githubusercontent.com/adi1090x/dots/master/images/bspnord_2.png) <br />
