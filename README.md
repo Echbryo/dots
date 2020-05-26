@@ -86,7 +86,7 @@ Openbox WM, Polybar, rofi, urxvt, etc.
 
 ![wall_2](https://raw.githubusercontent.com/adi1090x/dots/master/images/wall_2.png) <br />
 
-## 5. Bspnord
+## 5. Bspwm
 
 bspwm WM, Polybar, rofi, termite, etc.
 
@@ -99,6 +99,9 @@ bspwm WM, Polybar, rofi, termite, etc.
 - Fonts : [Terminus](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/Terminus/terminus-ttf-4.40.1)<br />
 
 ### Screenshots
-![wall_1](https://raw.githubusercontent.com/adi1090x/dots/master/images/bspnord_1.png) <br />
 
-![wall_2](https://raw.githubusercontent.com/adi1090x/dots/master/images/bspnord_2.png) <br />
+`Styles`
+![wall_1](https://raw.githubusercontent.com/adi1090x/dots/master/images/bspwm_0.gif) <br />
+
+`Rofi Menus`
+![wall_2](https://raw.githubusercontent.com/adi1090x/dots/master/images/bspwm_2.png) <br />
